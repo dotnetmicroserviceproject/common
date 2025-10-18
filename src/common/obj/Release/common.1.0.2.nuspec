@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>common</id>
+    <version>1.0.2</version>
+    <authors>common</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Authentication.JwtBearer" version="8.0.20" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.3.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.20" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="8.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Http" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Tokens" version="8.14.0" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver" version="3.5.0" exclude="Build,Analyzers" />
+        <dependency id="Npgsql.EntityFrameworkCore.PostgreSQL" version="8.0.11" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="8.1.4" exclude="Build,Analyzers" />
+        <dependency id="System.IdentityModel.Tokens.Jwt" version="8.14.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Common\src\common\bin\Release\net8.0\common.dll" target="lib\net8.0\common.dll" />
+  </files>
+</package>

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Common\\src\\common\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9F90E2-F6C7-4043-A23B-E0D1A9169D19}|common.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\common\\src\\common\\masstransit\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9F90E2-F6C7-4043-A23B-E0D1A9169D19}|common.csproj|solutionrelative:masstransit\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9F90E2-F6C7-4043-A23B-E0D1A9169D19}|common.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\common\\src\\common\\settings\\servicebussettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9F90E2-F6C7-4043-A23B-E0D1A9169D19}|common.csproj|solutionrelative:settings\\servicebussettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9F90E2-F6C7-4043-A23B-E0D1A9169D19}|common.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\common\\src\\common\\opentelemetry\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9F90E2-F6C7-4043-A23B-E0D1A9169D19}|common.csproj|solutionrelative:opentelemetry\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9F90E2-F6C7-4043-A23B-E0D1A9169D19}|common.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\common\\src\\common\\settings\\jaegersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9F90E2-F6C7-4043-A23B-E0D1A9169D19}|common.csproj|solutionrelative:settings\\jaegersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9F90E2-F6C7-4043-A23B-E0D1A9169D19}|common.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\common\\src\\common\\masstransit\\consumeobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9F90E2-F6C7-4043-A23B-E0D1A9169D19}|common.csproj|solutionrelative:masstransit\\consumeobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9F90E2-F6C7-4043-A23B-E0D1A9169D19}|common.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\common\\src\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E9F90E2-F6C7-4043-A23B-E0D1A9169D19}|common.csproj|solutionrelative:common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 670,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JaegerSettings.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Common\\src\\common\\Settings\\JaegerSettings.cs",
+              "RelativeDocumentMoniker": "Settings\\JaegerSettings.cs",
+              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Common\\src\\common\\Settings\\JaegerSettings.cs",
+              "RelativeToolTip": "Settings\\JaegerSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:03:01.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Common\\src\\common\\MassTransit\\Extensions.cs",
+              "RelativeDocumentMoniker": "MassTransit\\Extensions.cs",
+              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Common\\src\\common\\MassTransit\\Extensions.cs",
+              "RelativeToolTip": "MassTransit\\Extensions.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAkwG0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:48:20.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceBusSettings.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Common\\src\\common\\Settings\\ServiceBusSettings.cs",
+              "RelativeDocumentMoniker": "Settings\\ServiceBusSettings.cs",
+              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Common\\src\\common\\Settings\\ServiceBusSettings.cs",
+              "RelativeToolTip": "Settings\\ServiceBusSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:26:18.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "common.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Common\\src\\common\\common.csproj",
+              "RelativeDocumentMoniker": "common.csproj",
+              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Common\\src\\common\\common.csproj",
+              "RelativeToolTip": "common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T10:52:28.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsumeObserver.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Common\\src\\common\\MassTransit\\ConsumeObserver.cs",
+              "RelativeDocumentMoniker": "MassTransit\\ConsumeObserver.cs",
+              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Common\\src\\common\\MassTransit\\ConsumeObserver.cs",
+              "RelativeToolTip": "MassTransit\\ConsumeObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:48:01.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Common\\src\\common\\OpenTelemetry\\Extensions.cs",
+              "RelativeDocumentMoniker": "OpenTelemetry\\Extensions.cs",
+              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Common\\src\\common\\OpenTelemetry\\Extensions.cs",
+              "RelativeToolTip": "OpenTelemetry\\Extensions.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:42:18.567Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 670,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 670,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

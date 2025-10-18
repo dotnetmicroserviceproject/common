@@ -1,0 +1,14 @@
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Common\src\common\obj\Release\net8.0\common.csproj.AssemblyReference.cache
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Common\src\common\obj\Release\net8.0\common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Common\src\common\obj\Release\net8.0\common.AssemblyInfoInputs.cache
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Common\src\common\obj\Release\net8.0\common.AssemblyInfo.cs
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Common\src\common\obj\Release\net8.0\common.csproj.CoreCompileInputs.cache
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Common\src\common\bin\Release\net8.0\common.deps.json
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Common\src\common\bin\Release\net8.0\common.dll
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Common\src\common\bin\Release\net8.0\common.pdb
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Common\src\common\obj\Release\net8.0\common.dll
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Common\src\common\obj\Release\net8.0\refint\common.dll
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Common\src\common\obj\Release\net8.0\common.pdb
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Common\src\common\obj\Release\net8.0\ref\common.dll
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Common\src\common\bin\Release\net8.0\common.runtimeconfig.json
+C:\Users\PC\c-SharpProjects\MicroService\Ecommerce\Common\src\common\obj\Release\net8.0\common.genruntimeconfig.cache
