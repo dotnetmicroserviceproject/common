@@ -4,6 +4,10 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
+    <TargetFramework>net5.0</TargetFramework> 
+    <PackageDescription>Common libraries used by MyMicroservice</PackageDescription> 
+    <Authors>Odedame Bright</Authors> 
+    <Company>.NET Microservices</Company>
   </PropertyGroup>
 
   <ItemGroup>

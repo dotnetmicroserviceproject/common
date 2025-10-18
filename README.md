@@ -1,13 +1,11 @@
 # Play.Common
-Common libraries used by Play Economy services.
+Common libraries used by my Microservice .
 
 ## Create and publish package
 ```powershell
-$version="1.0.10"
-$owner="dotnetmicroservices"
-$gh_pat="[PAT HERE]"
+$version="1.1.8"
+$owner="dotnetmicroserviceproject"
 
-dotnet pack src\Play.Common\ --configuration Release -p:PackageVersion=$version -p:RepositoryUrl=https://github.com/$owner/play.common -o ..\packages
+dotnet pack src\common\ --configuration Release -p:PackageVersion=$version -p:RepositoryUrl=https://github.com/$owner/common -o ..\packages
 
-dotnet nuget push ..\packages\Play.Common.$version.nupkg --api-key $gh_pat --source "github"
 ```
