@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Common\\src\\common\\common.csproj": {
-      "version": "1.0.0",
+      "version": "1.1.8",
       "restore": {
         "projectUniqueName": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Common\\src\\common\\common.csproj",
         "projectName": "common",
@@ -27,7 +27,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\packages": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/dotnetmicroserviceproject/index.json": {}
         },
         "frameworks": {
           "net8.0": {
