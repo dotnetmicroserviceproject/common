@@ -3,7 +3,7 @@ Common libraries used by my Microservice .
 
 ## Create and publish package
 ```powershell
-$version="1.1.8"
+$version="1.1.9"
 $owner="dotnetmicroserviceproject"
 $gh_pat="[PAT HERE]"
 
